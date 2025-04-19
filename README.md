@@ -1,8 +1,8 @@
 # Привет заглянувшим :clap:! 
 
 ## Обо мне
-#### Работаю Go-разработчиком, перешел из сферы АСУТП (это как IT, только на "реальном производстве"). Развиваю необходимые навыки с помощью pet-проектов, книг и курсов.
-#### Текущая цель: получить необходимые знания для создания web-приложений.
+#### Бэкенд инженер, перешел из сферы АСУТП (это как IT, только на "реальном производстве"). 
+
 ![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go&logoColor=00addc)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=f9f9f9)
