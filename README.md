@@ -10,14 +10,6 @@
 
 ## [Моя "дорожная карта" backend разработчика](https://github.com/IgorAleksandroff/MyGoRoadMap)
 
-## Проекты
-#### [Укорачиватель ссылок на Go](https://github.com/IgorAleksandroff/url-shorter)
-Тестовое задание. Сделал с косяками(, оставлю для истории.
-#### [Web приложение "Notes"](https://github.com/IgorAleksandroff/go-html-notes)
-Первое приложение на Go для знакомтсва с пакетами net/http, html/template.
-#### [PiTuning](https://github.com/IgorAleksandroff/MobileApp)
-Первый опыт в программировании на шарпе. Попробовал в ООП и в Мобилке, да и в работе пригодилось.
-
 ## Опыт работы
 * Бэкенд инженер в команде Хоткора ETG.
 * Запускал сервис транзакционных писем Yandex Cloud Postbox.
